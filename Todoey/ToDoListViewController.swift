@@ -59,7 +59,6 @@ class ToDoListViewController: UITableViewController {
             let itemValue = textField.text == "" ? "New Item" : textField.text! //If textField is empty then set default value
             
             self.itemArray.append(itemValue)
-            
             self.tableView.reloadData()
         }
         
