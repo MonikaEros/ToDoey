@@ -1,3 +1,2 @@
 Test text line
 Adding some changes for new branch
-Added line number 3
